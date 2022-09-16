@@ -1,0 +1,20 @@
+.noticia{
+    background-color: aquamarine;
+}
+.noticia--destacada{
+    background-color: cyan;
+    font-size: xx-large;
+}
+.noticia__titulo--mayuscula{
+    font-size: 50px;
+}
+.noticia__titulo{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    color: coral;
+}
+.btn{
+    border-radius: 100%;
+    size: 50px;
+    justify-content: center;
+}

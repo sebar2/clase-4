@@ -1,0 +1,18 @@
+.ejemplo{
+    border-top:solid 5px red;
+    border-right: solid 7px green;
+    border-bottom: solid 10px blue;
+    border-left: solid 10px yellow;
+ 
+}
+.nuebes{ 
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    border: solid 5px;
+    border-image-source: url('image/borde\ nube.jpg');
+    border-image-slice: 100 fill;
+    position: relative;
+    right: 50px;
+    bottom: 50px;
+}

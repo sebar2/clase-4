@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'nabla',  ;
+    src: url('fonts/BreeSerif-Regular.ttf');
+    font-family:'bree' ;
+    src: url('fonts/Nabla.ttf');
+  
+}
+
+p{
+    font-family: 'bree';
+    color: #0033ff;
+    line-height: 15px;
+    size: 12px;
+}
